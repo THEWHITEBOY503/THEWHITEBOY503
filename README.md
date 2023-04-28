@@ -1,7 +1,11 @@
-# I'm Conner. Currently, I'm a high school senior planning on going into Computer Science. I work as an IT manager for TrueLogic.
+# Who are you?
 
+I'm Conner. Currently, I'm a high school senior planning on going into Computer Science. I work as an IT manager for TrueLogic.
 
-# My fields
+# What do you do?
+
+A lot. Here's what you probably want to know:
+
 ## Stuff I'm good at
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 
