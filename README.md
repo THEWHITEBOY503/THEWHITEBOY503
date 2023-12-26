@@ -1,6 +1,6 @@
 # Who are you?
 
-I'm Conner. ~~Currently, I'm a high school senior~~ (**Just graduated! :)**) planning on going into Computer Science and Artificial Intelligence. I work as an IT manager for TrueLogic.
+I'm Conner. ~~Currently, I'm a high school senior~~ (**Just graduated! :)**) planning on going into Computer Science and Artificial Intelligence. I work as an IT manager.
 
 # What do you do?
 
